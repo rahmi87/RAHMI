@@ -8,7 +8,7 @@ int main(){
 	char jawab,jawab1,jawaban;
 	char *urutan[6]={"Pizza","Mie Bakso","Nasi Goreng","Martabak Telur","Aneka Jus"};
 	int harga[6]={15000,13000,10000,8000,5000};
-void tabel(){//fungsi untuk menampilkan daftar produk
+void tabel(){//fungsi untuk menampilkan daftar makanan
 	printf("\n------------------------------------------\n");
 	printf("+\t|\t\t\t\t\t    +\n");
 	printf("|  No   |   Makanan \t\t Harga\t    |\n");
